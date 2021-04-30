@@ -145,6 +145,7 @@
     <ClCompile Include="8-4.c" />
     <ClCompile Include="8-5.c" />
     <ClCompile Include="8-6.c" />
+    <ClCompile Include="8-7.c" />
     <ClCompile Include="arry.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

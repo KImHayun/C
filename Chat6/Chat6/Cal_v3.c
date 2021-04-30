@@ -2,7 +2,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 int main(void)
-{	/*int a, b;
+{	int a, b;
 	printf("덧셈할 두 정수를 입력하세요 : ");
 	scanf("%d%d", &a, &b);
 	printf("a+b 값 %d\n", a + b);
@@ -20,7 +20,7 @@ int main(void)
 	int g, h;
 	printf("나눗셈할 두 정수를 입력하세요: ");
 	scanf("%d%d", &g, &h);
-	printf("g/h의 값 %d\n", g / h);*/
+	printf("g/h의 값 %d\n", g / h);
 
 	int a, b;
 	char c; //문자 변수선언
