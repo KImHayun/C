@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d77e5a99-d2ff-4bf2-99c4-80eb961ce370}</ProjectGuid>
-    <RootNamespace>Chat4</RootNamespace>
+    <ProjectGuid>{4e07f2f7-0e35-4915-b564-7a0504bf029a}</ProjectGuid>
+    <RootNamespace>prac</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,10 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="4-1.c" />
-    <ClCompile Include="InputNode.c" />
-    <ClCompile Include="InputNode2.c" />
-    <ClCompile Include="단방향연결리스트.c" />
+    <ClCompile Include="prac.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

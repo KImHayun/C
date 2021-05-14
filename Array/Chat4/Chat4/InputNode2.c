@@ -22,15 +22,15 @@ void addNode(Node* target, int data) //addNode->이미 만들어진 노드에서 데이터값�
 	newNode->link = target->link;
 	target->link = newNode;
 }
-int main()
-{ //malloc함수는 필요로 하는 매개변수가 할당하고자 하는 자료형의 크기이다!
-	Node *head = (Node*)malloc(sizeof(Node)); //헤더노드 생성
-	head->link = NULL;  //링크값은 0
-	/*여기부터 함수 호출*/
-	Node* target = (Node*)malloc(sizeof(Node));
-	target->data = 10;
-
-	Node* curr = head->link;//첫번째 노드의 주소값을 저장 , 첫번째 노드를 가리킴
-
-	return 0;
-}
+//int main()
+//{ //malloc함수는 필요로 하는 매개변수가 할당하고자 하는 자료형의 크기이다!
+//	Node *head = (Node*)malloc(sizeof(Node)); //헤더노드 생성
+//	head->link = NULL;  //링크값은 0
+//	/*여기부터 함수 호출*/
+//	Node* target = (Node*)malloc(sizeof(Node));
+//	target->data = 10;
+//
+//	Node* curr = head->link;//첫번째 노드의 주소값을 저장 , 첫번째 노드를 가리킴
+//
+//	return 0;
+//}
