@@ -18,11 +18,14 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Test.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{61fc9b43-fd23-49a0-aceb-0c85b608cd89}</ProjectGuid>
-    <RootNamespace>Chat3</RootNamespace>
+    <ProjectGuid>{81b2d882-8065-4532-ba1d-666b9b796355}</ProjectGuid>
+    <RootNamespace>ArrayTest</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -138,18 +141,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="3-10.c" />
-    <ClCompile Include="3-11.c" />
-    <ClCompile Include="3-3.c" />
-    <ClCompile Include="3-4.c" />
-    <ClCompile Include="3-7.c" />
-    <ClCompile Include="3-8.c" />
-    <ClCompile Include="3-9.c" />
-    <ClCompile Include="chat3(2)-ex.c" />
-    <ClCompile Include="chat3-ex.c" />
-    <ClCompile Include="Test.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

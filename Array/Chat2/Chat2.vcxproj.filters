@@ -15,34 +15,40 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3-3.c">
+    <ClCompile Include="2-3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3-4.c">
+    <ClCompile Include="gugu.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3-7.c">
+    <ClCompile Include="2-4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3-8.c">
+    <ClCompile Include="2-5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3-9.c">
+    <ClCompile Include="2-6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3-10.c">
+    <ClCompile Include="2-7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3-11.c">
+    <ClCompile Include="2-8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="chat3-ex.c">
+    <ClCompile Include="2-9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="chat3(2)-ex.c">
+    <ClCompile Include="2-10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Test.cpp">
+    <ClCompile Include="2-11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2-12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2-13.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,34 +15,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3-3.c">
+    <ClCompile Include="18ex.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3-4.c">
+    <ClCompile Include="18-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3-7.c">
+    <ClCompile Include="18-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3-8.c">
+    <ClCompile Include="18-3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3-9.c">
+    <ClCompile Include="18-4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3-10.c">
+    <ClCompile Include="18-5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3-11.c">
+    <ClCompile Include="18-6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="chat3-ex.c">
+    <ClCompile Include="18-11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="chat3(2)-ex.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Test.cpp">
+    <ClCompile Include="18-10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

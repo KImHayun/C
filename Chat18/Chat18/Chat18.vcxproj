@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{61fc9b43-fd23-49a0-aceb-0c85b608cd89}</ProjectGuid>
-    <RootNamespace>Chat3</RootNamespace>
+    <ProjectGuid>{874d932c-6949-4fbd-96d7-6c4080df1d63}</ProjectGuid>
+    <RootNamespace>Chat18</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,16 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="3-10.c" />
-    <ClCompile Include="3-11.c" />
-    <ClCompile Include="3-3.c" />
-    <ClCompile Include="3-4.c" />
-    <ClCompile Include="3-7.c" />
-    <ClCompile Include="3-8.c" />
-    <ClCompile Include="3-9.c" />
-    <ClCompile Include="chat3(2)-ex.c" />
-    <ClCompile Include="chat3-ex.c" />
-    <ClCompile Include="Test.cpp" />
+    <ClCompile Include="18-1.c" />
+    <ClCompile Include="18-10.c" />
+    <ClCompile Include="18-11.c" />
+    <ClCompile Include="18-2.c" />
+    <ClCompile Include="18-3.c" />
+    <ClCompile Include="18-4.c" />
+    <ClCompile Include="18-5.c" />
+    <ClCompile Include="18-6.c" />
+    <ClCompile Include="18ex.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
