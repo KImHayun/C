@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d77e5a99-d2ff-4bf2-99c4-80eb961ce370}</ProjectGuid>
-    <RootNamespace>Chat4</RootNamespace>
+    <ProjectGuid>{ddb0a43a-5f7b-427c-974b-252c78c271be}</ProjectGuid>
+    <RootNamespace>Chat7</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,18 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="4-1.c" />
-    <ClCompile Include="InputNode.c" />
-    <ClCompile Include="InputNode2.c" />
-    <ClCompile Include="queue.c" />
-    <ClCompile Include="stack.c" />
-    <ClCompile Include="stack2.c" />
-    <ClCompile Include="단방향연결리스트.c" />
-    <ClCompile Include="선택정렬.c" />
-    <ClCompile Include="순차탐색.c" />
-    <ClCompile Include="원형리스트.c" />
-    <ClCompile Include="이진탐색.c" />
-    <ClCompile Include="퀵정렬.c" />
+    <ClCompile Include="이진탐색트리.c" />
+    <ClCompile Include="이진트리.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
