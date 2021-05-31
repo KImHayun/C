@@ -148,6 +148,9 @@
     <ClCompile Include="newarrary.cpp" />
     <ClCompile Include="newdelete.cpp" />
     <ClCompile Include="Overload.cpp" />
+    <ClCompile Include="overloadTest.cpp" />
+    <ClCompile Include="ptroverload.cpp" />
+    <ClCompile Include="randfunc.cpp" />
     <ClCompile Include="randnumOop.cpp" />
     <ClCompile Include="ref1.cpp" />
     <ClCompile Include="refptr.cpp" />

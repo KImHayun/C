@@ -60,6 +60,15 @@
     <ClCompile Include="Overload.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ptroverload.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="overloadTest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="randfunc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="\\210.119.12.109\Share\C++\cursor.h">
